@@ -1,1 +1,9 @@
-
+set KillAura Players true
+set KillAura Animals false
+set KillAura Monsters false
+set KillAura CubeCraft_Bypass true
+set KillAura Auto_Block true
+set KillAura Range 4.5
+set KillAura Delay 79
+set KillAura Ticks 30
+set KillAura CrackSize 5
