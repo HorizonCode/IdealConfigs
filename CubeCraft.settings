@@ -7,3 +7,10 @@ set KillAura Range 4.5
 set KillAura Delay 79
 set KillAura Ticks 30
 set KillAura CrackSize 5
+set Speed mode BHop
+state Speed true
+state NoSlowdown true
+state NoKnockback true
+state InventoryMove true
+state AutoArmor true
+state InvCleaner true
