@@ -8,3 +8,9 @@ set KillAura Delay 105
 set KillAura Ticks 20
 set KillAura CrackSize 5
 set Speed mode NCP
+state Speed true
+state NoSlowDown true
+state InventoryMove true
+state NoKnockback true
+state InvCleaner true
+state AutoArmor true
