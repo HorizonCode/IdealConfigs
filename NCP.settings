@@ -1,3 +1,4 @@
+reset
 set KillAura Players true
 set KillAura Animals false
 set KillAura Monsters false
