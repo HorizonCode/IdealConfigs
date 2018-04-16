@@ -3,7 +3,7 @@ set KillAura Players true
 set KillAura Animals false
 set KillAura Monsters false
 set KillAura CubeCraft_Bypass false
-set KillAura Mineplex_Bypass false
+set KillAura Mineplex_Bypass true
 set KillAura Auto_Block true
 set KillAura Range 4.8
 set KillAura Delay 69
