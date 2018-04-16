@@ -1,0 +1,18 @@
+reset
+set KillAura Players true
+set KillAura Animals false
+set KillAura Monsters false
+set KillAura CubeCraft_Bypass false
+set KillAura Mineplex_Bypass false
+set KillAura Auto_Block true
+set KillAura Range 4.8
+set KillAura Delay 69
+set KillAura Ticks 30
+set KillAura CrackSize 10
+set Speed mode BHop
+state Speed true
+state NoSlowdown true
+state NoKnockback true
+state InventoryMove true
+state AutoArmor true
+state InvCleaner true
